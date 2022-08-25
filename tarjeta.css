@@ -19,15 +19,17 @@
     align-items: center;
     font-family: var(--cuerpo);
 }
-#titlo{
-    font-family: var(--titlo);
-}
 
 .texto{
-    padding: 10px;
-    align-content: center;
-    text-align: left;
+    padding: 5px 10px;
+    /* align-content: center; */
+    /* text-align: left; */
     margin-right: 0.5em;
+    margin-left: 0.5em;
+    text-align: justify;
+}
+#titlo{
+    font-family: var(--titlo);
 }
 #info{
     font-weight: 900;
